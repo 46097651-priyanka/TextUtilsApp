@@ -1,0 +1,18 @@
+{
+    "text/upperCase": {
+        "warning": "Coudln't convert to uppercase.",
+        "success": "Converted to uppercase."
+    },
+    "text/lowerCase": {
+        "warning": "Coudln't convert to lowercase.",
+        "success": "Converted to lowercase."
+    },
+    "text/clear": {
+        "warning": "Couldn't clear text.",
+        "success": "Cleared text"
+    },
+    "text/removeWhiteSpace": {
+        "warning": "Couldn't remove white spaces.",
+        "success": "Removed white spaces"
+    }
+}
